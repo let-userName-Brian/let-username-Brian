@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=highcontrast)
+![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=let-username-Brian&show_icons=true&theme=highcontrast)
 <!--
 **let-userName-Brian/let-username-Brian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
