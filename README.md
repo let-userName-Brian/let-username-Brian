@@ -19,8 +19,8 @@
 
 ### 🌱 I’m currently learning Angular and Redux!
 ### 🔭 About me:
-I work for the Space Force and Silicon Mountain Technologies so the majority of my workflow is done through GitLab. However, I try to build at least two
-CRUD apps a month using GitHub for my workflow! I enjoy working with other developers on various things so feel free to reach out to me to collaborate!
+I work for the Space Force and Silicon Mountain Technologies so the majority of my workflow is done through GitLab. However, I try to build some
+CRUD apps each month using GitHub for my workflow! I enjoy working with other developers on various things so feel free to reach out to me to collaborate!
 
 ## 📫 Want to see more and reach out?
 Check out my [Portfolio](https://www.brian-hardy.dev)!
