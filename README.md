@@ -17,10 +17,10 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🌱 I’m currently learning Angular and Redux!
+### 🌱 I’m currently learning NgRx/Redux!
 ### 🔭 About me:
 I work for the Space Force and Silicon Mountain Technologies so the majority of my workflow is done through GitLab. However, I try to build some
-CRUD apps each month using GitHub for my workflow! I enjoy working with other developers on various things so feel free to reach out to me to collaborate!
+CRUD apps each month using GitHub for my workflow. I enjoy working with other developers on various things so feel free to reach out to me to collaborate!
 
 ## 📫 Want to see more and reach out?
 Check out my [Portfolio](https://www.brian-hardy.dev)!
