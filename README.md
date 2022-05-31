@@ -3,8 +3,6 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=let-username-Brian&show_icons=true&theme=highcontrast" />
 <img align="left" width="47%" height="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=let-username-Brian&layout=compact&theme=highcontrast" />
 
-
-
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -16,10 +14,6 @@
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🔭 About me:
-I work for the Space Force and Silicon Mountain Technologies so the majority of my workflow is done through GitLab. However, I try to build some
-CRUD apps occasionally using GitHub for my workflow. I enjoy working with other developers on various things so feel free to reach out to me to collaborate!
 
 ## 📫 Want to see more and reach out?
 Check out my [Portfolio](https://www.brian-hardy.dev)!
